@@ -1,2 +1,8 @@
-# SpeakEase
- Advanced Text-to-Speech Software | A Python-based TTS app with multi-language support, customizable voices, and MP3 export for offline use. Features a user-friendly Tkinter interface and leverages gTTS, pyttsx3, and FFmpeg for high-quality, efficient speech synthesis. Perfect for seamless text-to-audio conversion.
+SpeakEase  — Advanced Text-to-Speech Software 
+Developed a Python-based text-to-speech application with 
+multi-language support and customizable voice options. Integrated MP3 
+export for ofﬂine accessibility, allowing users to download high-quality 
+speech output. Designed a user-friendly interface (Tkinter) for seamless 
+interaction, ensuring effortless speech generation and customization. 
+Powered by gTTS, pyttsx3, and FFmpeg for efﬁcient and 
+high-performance synthesis.
